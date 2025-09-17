@@ -7,27 +7,33 @@
 <br />
 
 <!-- Intro Section with Side Image -->
-<div style="display: flex; align-items: center; justify-content: space-between;">
+<table>
+  <tr>
+    <!-- Left: Intro Text -->
+    <td width="65%" style="vertical-align: top;">
 
-<!--Intro Text-->
-<div style="flex: 1; padding-right: 20px;">
-  
-<p align="left">I am an Artificial Intelligence & Machine Learning Engineer with a huge love for Computer Vision, Deep Learning, Chatbots, and Cloud-based AI applications. </p>
+<p align="left" style="font-size:18px;">
+I am an <b>Artificial Intelligence & Machine Learning Engineer</b> with a huge love for 
+<b>Computer Vision, Deep Learning, Chatbots</b>, and <b>Cloud-based AI applications</b>.
+</p>
 
-- ✨ Lifelong Learner — always curious, always building.  
-- 🌱 Currently working on **AI-powered assistants, medical imaging research & intelligent chatbots**.  
-- 🧠 Research Intern on **Kidney Stone Detection using CNNs (90%+ accuracy)**.  
-- 🤖 Built AI projects like **Rail Madad Complaint System, Fall Detection System, Kidney Disease Classifier**.  
-- 💻 Visit my [Portfolio](https://varshingonline.vercel.app) for more details about me.  
+<ul style="font-size:18px;">
+  <li>✨ Lifelong Learner — always curious, always building.</li>
+  <li>🌱 Currently working on <b>AI-powered assistants, medical imaging research & intelligent chatbots</b>.</li>
+  <li>🧠 Research Intern on <b>Kidney Stone Detection using CNNs (90%+ accuracy)</b>.</li>
+  <li>🤖 Built AI projects like <b>Rail Madad Complaint System, Fall Detection System, Kidney Disease Classifier</b>.</li>
+  <li>💻 Visit my <a href="https://varshingonline.vercel.app">Portfolio</a> for more details about me.</li>
+</ul>
 
-</div>
+    </td>
 
-<!--Cartoon Coding Image-->
-<div style="flex: 1; text-align: right;">
-  <img src="12-content-writer-4-e9b87a562c5bc16f6f18f17fa1557117abacde5c5edd44430c69c6988e409e47 (1).jpg" width="85%" alt="Cartoon Girl Coding"/>
-</div>
+    <!-- Right: Image -->
+    <td width="35%" align="center">
+      <img src="12-content-writer-4-e9b87a562c5bc16f6f18f17fa1557117abacde5c5edd44430c69c6988e409e47 (1).jpg" width="300" alt="Cartoon Girl Coding"/>
+    </td>
+  </tr>
+</table>
 
-</div>
 
 <!--Profile Count Badge-->
 <p align="left">
