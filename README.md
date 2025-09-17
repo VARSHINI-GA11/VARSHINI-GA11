@@ -10,7 +10,6 @@
 <h3 align="center">
   🌟 AI/ML Developer | Research Enthusiast | Creative Coder 🌟
 </h3>
-
 ---
 
 <!-- Intro Section with Side Image -->
