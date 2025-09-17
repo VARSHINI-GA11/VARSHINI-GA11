@@ -24,7 +24,6 @@ I am an <b>Artificial Intelligence & Machine Learning Engineer</b> with a huge l
 
 <h3>
 <ul>
-  <li><b>✨ Lifelong Learner</b> — always curious, always building.</li>
   <li><b>🌱 Currently working on</b> AI-powered assistants, medical imaging research & intelligent chatbots.</li>
   <li><b>🧠 Research Intern</b> on Kidney Stone Detection using CNNs (90%+ accuracy).</li>
   <li><b>🤖 Built AI projects</b> like Rail Madad Complaint System, Fall Detection System, Kidney Disease Classifier.</li>
