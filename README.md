@@ -3,7 +3,7 @@
 
 <!-- Header Name -->
 #<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Vᴀʀsʜɪɴɪ!  
-*AI/ML Developer | Research Enthusiast | Creative Coder*  
+##AI/ML Developer | Research Enthusiast | Creative Coder
 
 ---
 
@@ -34,6 +34,7 @@ I am an <b>Artificial Intelligence & Machine Learning Engineer</b> with a huge l
 </td>
   </tr>
 </table>
+
 
 
 ---
