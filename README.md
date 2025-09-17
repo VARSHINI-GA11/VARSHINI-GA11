@@ -13,17 +13,17 @@
     <!-- Left: Intro Text -->
     <td width="65%" style="vertical-align: top;">
 
-<p align="left">
+<h3 align="left">
 I am an <b>Artificial Intelligence & Machine Learning Engineer</b> with a huge love for 
 <b>Computer Vision, Deep Learning, Chatbots</b>, and <b>Cloud-based AI applications</b>.
-</p>
+</h3>
 
 <ul>
-  <li>✨ Lifelong Learner — always curious, always building.</li>
-  <li>🌱 Currently working on <b>AI-powered assistants, medical imaging research & intelligent chatbots</b>.</li>
-  <li>🧠 Research Intern on <b>Kidney Stone Detection using CNNs (90%+ accuracy)</b>.</li>
-  <li>🤖 Built AI projects like <b>Rail Madad Complaint System, Fall Detection System, Kidney Disease Classifier</b>.</li>
-  <li>💻 Visit my <a href="https://varshingonline.vercel.app" target="_blank">Portfolio</a> for more details about me.</li>
+  <li><b>✨ Lifelong Learner</b> — always curious, always building.</li>
+  <li><b>🌱 Currently working on</b> AI-powered assistants, medical imaging research & intelligent chatbots.</li>
+  <li><b>🧠 Research Intern</b> on Kidney Stone Detection using CNNs (90%+ accuracy).</li>
+  <li><b>🤖 Built AI projects</b> like Rail Madad Complaint System, Fall Detection System, Kidney Disease Classifier.</li>
+  <li><b>💻 Visit my <a href="https://varshingonline.vercel.app" target="_blank">Portfolio</a></b> for more details about me.</li>
 </ul>
 
 </td>
@@ -34,6 +34,7 @@ I am an <b>Artificial Intelligence & Machine Learning Engineer</b> with a huge l
 </td>
   </tr>
 </table>
+
 
 ---
 
