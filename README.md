@@ -2,14 +2,17 @@
 ![Varshini Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Varshini%20G%20🚀%20&fontSize=60&fontColor=ffffff&animation=fadeIn)
 
 <!--Cartoon Coding Image-->
-<div align="center">
-  <img src="12-content-writer-4-e9b87a562c5bc16f6f18f17fa1557117abacde5c5edd44430c69c6988e409e47.jpg" width="50%" alt="Cartoon Girl Coding"/>
-</div>
+
 
 <!--Header Name-->
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Vᴀʀsʜɪɴɪ! 
 *AI/ML Developer | Research Enthusiast | Creative Coder*
 <br /> 
+
+<!--Cartoon Coding Image-->
+<div align="center">
+  <img src="12-content-writer-4-e9b87a562c5bc16f6f18f17fa1557117abacde5c5edd44430c69c6988e409e47.jpg" width="50%" alt="Cartoon Girl Coding"/>
+</div>
 
 <!--Start Intro-->               
 <p align="left">I am an Artificial Intelligence & Machine Learning Engineer with a huge love for Computer Vision, Deep Learning, Chatbots, and Cloud-based AI applications. </p>
