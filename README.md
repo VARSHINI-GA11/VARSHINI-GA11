@@ -17,12 +17,12 @@
     <!-- Left: Intro Text -->
     <td width="65%" style="vertical-align: top;">
 
-<h1 align="left">
+<h2 align="left">
 I am an <b>Artificial Intelligence & Machine Learning Engineer</b> with a huge love for 
 <b>Computer Vision, Deep Learning, Chatbots</b>, and <b>Cloud-based AI applications</b>.
-</h1>
+</h2>
 
-<h2>
+<h3>
 <ul>
   <li><b>✨ Lifelong Learner</b> — always curious, always building.</li>
   <li><b>🌱 Currently working on</b> AI-powered assistants, medical imaging research & intelligent chatbots.</li>
@@ -30,7 +30,7 @@ I am an <b>Artificial Intelligence & Machine Learning Engineer</b> with a huge l
   <li><b>🤖 Built AI projects</b> like Rail Madad Complaint System, Fall Detection System, Kidney Disease Classifier.</li>
   <li><b>💻 Visit my <a href="https://varshingonline.vercel.app" target="_blank">Portfolio</a></b> for more details about me.</li>
 </ul>
-</h2>
+</h3>
 
 </td>
 
