@@ -2,7 +2,7 @@
 ![Varshini Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Varshini%20G%20🚀%20&fontSize=60&fontColor=ffffff&animation=fadeIn)
 
 <!-- Header Name -->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ##ɪ'ᴍ Vᴀʀsʜɪɴɪ!  
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Vᴀʀsʜɪɴɪ!  
 *AI/ML Developer | Research Enthusiast | Creative Coder*  
 
 ---
