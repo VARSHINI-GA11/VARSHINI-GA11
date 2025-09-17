@@ -1,20 +1,17 @@
 <!--Banner-->
 ![Varshini Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Varshini%20G%20🚀%20&fontSize=60&fontColor=ffffff&animation=fadeIn)
 
-<!--Cartoon Coding Image-->
-
-<!--Cartoon Coding Image-->
-<div align="center">
-  <img src="12-content-writer-4-e9b87a562c5bc16f6f18f17fa1557117abacde5c5edd44430c69c6988e409e47 (1).jpg" width="50%" alt="Cartoon Girl Coding"/>
-</div>
-
 <!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Vᴀʀsʜɪɴɪ! 
-*AI/ML Developer | Research Enthusiast | Creative Coder*
-<br /> 
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Vᴀʀsʜɪɴɪ!  
+*AI/ML Developer | Research Enthusiast | Creative Coder*  
+<br />
 
+<!-- Intro Section with Side Image -->
+<div style="display: flex; align-items: center; justify-content: space-between;">
 
-<!--Start Intro-->               
+<!--Intro Text-->
+<div style="flex: 1; padding-right: 20px;">
+  
 <p align="left">I am an Artificial Intelligence & Machine Learning Engineer with a huge love for Computer Vision, Deep Learning, Chatbots, and Cloud-based AI applications. </p>
 
 - ✨ Lifelong Learner — always curious, always building.  
@@ -22,6 +19,15 @@
 - 🧠 Research Intern on **Kidney Stone Detection using CNNs (90%+ accuracy)**.  
 - 🤖 Built AI projects like **Rail Madad Complaint System, Fall Detection System, Kidney Disease Classifier**.  
 - 💻 Visit my [Portfolio](https://varshingonline.vercel.app) for more details about me.  
+
+</div>
+
+<!--Cartoon Coding Image-->
+<div style="flex: 1; text-align: center;">
+  <img src="12-content-writer-4-e9b87a562c5bc16f6f18f17fa1557117abacde5c5edd44430c69c6988e409e47 (1).jpg" width="85%" alt="Cartoon Girl Coding"/>
+</div>
+
+</div>
 
 <!--Profile Count Badge-->
 <p align="left">
@@ -38,57 +44,6 @@
 </p>
 <br />
 
-<!--Trophies Section-->   
-<h2 align="center">🏆 GitHub Trophies 🏆</h2>
-<p align="center">
-  <a href="https://github.com/VARSHINI-GA11/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=VARSHINI-GA11&row=2&column=6&margin-w=20&margin-h=20&theme=radical" alt="GitHub Trophies">
-  </a>
-</p>
-<br />
-
-<!--Github stats Table--> 
-<h2 align="center">📊 GitHub Stats 📊</h2>
-
-<table width="100%">
-  <tr>
-    <td width="50%">
-      <h3 align="center"><strong>GitHub Stats</strong></h3>
-      <p align="center">
-        <a href="https://github.com/VARSHINI-GA11">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=VARSHINI-GA11&count_private=true&show_icons=true&theme=radical" alt="GitHub Stats" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center"><strong>Streak Stats</strong></h3>
-      <p align="center">
-        <a href="https://github.com/VARSHINI-GA11">
-          <img align="center" src="https://streak-stats.demolab.com?user=VARSHINI-GA11&theme=radical" alt="Streak Stats" />
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center"><strong>LeetCode Stats</strong></h3>
-      <p align="center">
-        <a href="https://leetcode.com/u/Var_shini2005/">
-          <img align="center" width="470" src="https://leetcard.jacoblin.cool/Var_shini2005?theme=dark&font=Source%20Code%20Pro&ext=contest" alt="LeetCode Stats" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center"><strong>Top Contributions</strong></h3>
-      <p align="center">
-        <a href="https://github.com/VARSHINI-GA11">
-          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=VARSHINI-GA11&limit=3&theme=radical&show_owner=true&combine_all_yearly_contributions=true" alt="Top Repo" />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
-<br />
 
 <!--Contribution Graph-->
 <h2 align="center">📈 Contribution Graph 📈</h2>
