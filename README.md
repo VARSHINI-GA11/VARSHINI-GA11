@@ -11,7 +11,7 @@
 
 <!--Cartoon Coding Image-->
 <div align="center">
-  <img src="12-content-writer-4-e9b87a562c5bc16f6f18f17fa1557117abacde5c5edd44430c69c6988e409e47.jpg" width="50%" alt="Cartoon Girl Coding"/>
+  <img src="12-content-writer-4-e9b87a562c5bc16f6f18f17fa1557117abacde5c5edd44430c69c6988e409e47 (1).jpg" width="50%" alt="Cartoon Girl Coding"/>
 </div>
 
 <!--Start Intro-->               
