@@ -1,13 +1,13 @@
 <div align="center">
 
-# 👋 Hi, I'm Varshini G!  
+# 👋 Hi, I'm <span style="font-size:40px;">Varshini G</span>  
 
-🎯 **AI/ML Developer | Computer Vision Enthusiast | Cloud & Research Explorer**  
+🎯 <span style="font-size:22px;">AI/ML Developer | Computer Vision Enthusiast | Cloud & Research Explorer</span>  
 
-<img src="https://img.freepik.com/free-photo/cartoon-character-coding-illustration_23-2151157261.jpg" width="400" alt="Cartoon Girl Coding"/>
+<img src="12-content-writer-4-e9b87a562c5bc16f6f18f17fa1557117abacde5c5edd44430c69c6988e409e47.jpg" width="600" alt="Cartoon Girl Coding"/>
 
-✨ Passionate about solving **real-world problems with AI** — from healthcare innovations to automation systems.  
-📌 Currently working on **AI-powered assistants, research in medical imaging, and intelligent chatbots.**  
+✨ <span style="font-size:20px;">Passionate about solving real-world problems with AI — from healthcare innovations to automation systems.</span>  
+📌 <span style="font-size:20px;">Currently working on AI-powered assistants, research in medical imaging, and intelligent chatbots.</span>  
 
 ---
 
@@ -15,28 +15,15 @@
 
 <div align="center">
 
-<!-- Languages -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
-
-<!-- AI/ML -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/OpenAI_Logo.svg" height="40" />
-<img src="https://avatars.githubusercontent.com/u/22247014?s=200&v=4" height="40" alt="LangChain" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" />
-
-<!-- Tools -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rasa/rasa-original.svg" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twilio/twilio-original.svg" height="40" />
-<img src="https://avatars.githubusercontent.com/u/16236543?s=200&v=4" height="40" alt="Playwright" />
-
-<!-- DevOps & Cloud -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/OpenAI_Logo.svg" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" />
 
 </div>
 
@@ -44,25 +31,22 @@
 
 ## 💡 Featured Projects  
 
-🔹 **Rail Madad — AI-Based Complaint System**  
-*OCR | Chatbot | Computer Vision | Streamlit*  
-> Automated railway complaint handling with **60% faster response time**.  
+### 🚉 Rail Madad — AI-Based Complaint System  
+✨ Automated **railway complaint handling** with **60% faster response time** using AI, OCR, and chatbot integration.  
 
-🔹 **Fall Detection System**  
-*EfficientNet | RNN | Twilio API*  
-> Achieved **98.69% accuracy** in real-time fall detection, with instant SMS alerts.  
+### 🧑‍🦳 Fall Detection System  
+✨ Real-time fall detection with **98.69% accuracy**, sending instant caregiver alerts via **Twilio API**.  
 
-🔹 **Kidney Disease Classifier**  
-*CNN | TensorFlow | Medical Imaging*  
-> Built a diagnostic model to detect **stones, tumors & cysts** from CT scans.  
+### 🏥 Kidney Disease Classifier  
+✨ Designed a **CNN-based diagnostic tool** to detect stones, tumors, and cysts in CT scans.  
 
 ---
 
 ## 🏆 Achievements  
 
-- 📌 **Research Intern** in AI/ML for Medical Imaging (Kidney Stone Detection, 90%+ accuracy).  
-- 🤖 Created **chatbots & AI assistants** using Rasa, LangChain & OpenAI.  
-- 🎓 **AI-powered healthcare & safety systems** showcased in research projects.  
+- 🎓 **Research Intern** in AI/ML for Medical Imaging (Kidney Stone Detection, 90%+ accuracy).  
+- 🤖 Built **chatbots & AI assistants** with Rasa, LangChain & OpenAI.  
+- 📊 Published healthcare & safety AI research projects.  
 
 ---
 
